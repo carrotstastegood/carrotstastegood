@@ -8,4 +8,4 @@ hopefully i can make something interesting here soon. <br>
 im trans, and lesbian. currently im really into deltarune.<br>
 <br>
 if you need to contact me, you can use my [twitter](https://x.com/carrotsaregood0) <!-- use x.com domain because shorter --> or email me<br>
-at 22matti.kivinen@gmail.com.
+at carrotstastegood22@proton.me
