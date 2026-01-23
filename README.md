@@ -1,9 +1,9 @@
 ## hi!
 
 i mainly code in python and c++. <br>
-i often have trouble coming up with project ideas, let alone useful ones, and i <br>
-often abandon projects that i do start. thats why there is basically nothing here. <br>
-hopefully i can make something interesting here soon. <br>
+i often have trouble coming up with project ideas, let alone useful ones, and i
+often abandon projects that i do start. thats why there is basically nothing here
+hopefully i can make something interesting here soon.
 <br>
 im trans, and lesbian. currently im really into deltarune.<br>
 <br>
