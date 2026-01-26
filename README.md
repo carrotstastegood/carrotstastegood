@@ -1,6 +1,10 @@
 ## hi!
 
-i mainly code in python and c++. <br>
+languages i code in:
+- python
+- c/c++
+- java
+
 i often have trouble coming up with project ideas, let alone useful ones, and i
 often abandon projects that i do start. thats why there is basically nothing here
 hopefully i can make something interesting here soon.
